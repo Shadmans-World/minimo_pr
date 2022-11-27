@@ -1,0 +1,16 @@
+#banner{
+    width: 100%;
+}
+
+#noborder{
+    border: none;
+}
+
+.card{
+    border: none !important;
+}
+
+#email, #btn{
+    text-align: center;
+}
+
